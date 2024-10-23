@@ -4,7 +4,6 @@ This repo contains the code for [Guiding Instruction-based Image Editing via Mul
 ## Overview
 MGIE is an implementation of <br>
 "[Guiding Instruction-based Image Editing via Multimodal Large Language Models](https://arxiv.org/abs/2309.17102)" <br>
-[Tsu-Jui Fu](https://scholar.google.com/citations?user=7QRDcC0AAAAJ), [Wenze Hu](https://scholar.google.com/citations?user=0YPYs5UAAAAJ), [Xianzhi Du](https://scholar.google.com/citations?user=l1hP40AAAAAJ), [William Yang Wang](https://scholar.google.com/citations?user=gf8Ms_8AAAAJ), [Yinfei Yang](https://scholar.google.com/citations?user=kvDbu90AAAAJ), and [Zhe Gan](https://scholar.google.com/citations?user=E64XWyMAAAAJ) <br>
 in International Conference on Learning Representations (**ICLR**) 2024
 
 <img src='./mgie.png' width='70%' />
